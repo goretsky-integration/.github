@@ -12,4 +12,4 @@
 ![Telegram](https://img.shields.io/badge/Telegram-2CA5E0?style=for-the-badge&logo=telegram&logoColor=white)
 
 ### Project Schema
-![photo](./Goretsky%20Integration.jpg)
+![photo](https://i.imgur.com/urnMofV.jpg)
