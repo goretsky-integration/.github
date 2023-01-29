@@ -1,4 +1,3 @@
-
 ### 📱 Tech Stack:
 ![Redis](https://img.shields.io/badge/redis-%23DD0031.svg?style=for-the-badge&logo=redis&logoColor=white)
 ![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white)
@@ -12,5 +11,5 @@
 ![FastAPI](https://img.shields.io/badge/FastAPI-005571?style=for-the-badge&logo=fastapi)
 ![Telegram](https://img.shields.io/badge/Telegram-2CA5E0?style=for-the-badge&logo=telegram&logoColor=white)
 
-### Project's schema
-![](../assets/Goretsky%20Integration.jpg)
+### Project Schema
+![photo](../assets/Goretsky%20Integration.jpg)
