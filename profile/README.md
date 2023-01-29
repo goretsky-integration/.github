@@ -11,5 +11,5 @@
 ![FastAPI](https://img.shields.io/badge/FastAPI-005571?style=for-the-badge&logo=fastapi)
 ![Telegram](https://img.shields.io/badge/Telegram-2CA5E0?style=for-the-badge&logo=telegram&logoColor=white)
 
-### Project Schema
+### 🎨 Project's Schema:
 <a href="https://miro.com/app/board/uXjVPtX8wQs=/?share_link_id=562369696202" target="_blank"><img src="https://i.imgur.com/64RGSw1.jpg" alt="Schema"/></a>
