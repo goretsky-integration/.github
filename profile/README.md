@@ -12,4 +12,4 @@
 ![Telegram](https://img.shields.io/badge/Telegram-2CA5E0?style=for-the-badge&logo=telegram&logoColor=white)
 
 ### Project Schema
-![photo](https://i.imgur.com/urnMofV.jpg)
+<a href="https://miro.com/app/board/uXjVPtX8wQs=/?share_link_id=562369696202"><img src="https://i.imgur.com/urnMofV.jpg" alt="Schema"/></a>
